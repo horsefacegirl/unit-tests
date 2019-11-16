@@ -5,3 +5,4 @@ describe('1-multiplication', () => {
     expect(multiply(2, 2)).toEqual(4)
   })
 })
+
